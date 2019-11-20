@@ -6,7 +6,7 @@ You need clone this repository in your machine
 Dont forget the install docker :)
 
 ```
-https://github.com/mandala21/react-dev-dep
+git clone --dissociate https://github.com/mandala21/react-dev-dep
 ```
 
 Dont forget the configure the .env file

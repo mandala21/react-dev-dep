@@ -3,8 +3,10 @@
 This project is simples react + serve dev and deploy envorimment. 
 You need clone this repository in your machine
 
-```
+Dont forget the install docker :)
 
+```
+https://github.com/mandala21/react-dev-dep
 ```
 
 Dont forget the configure the .env file

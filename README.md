@@ -23,6 +23,15 @@ And run this command and "manda brasa" in the code.
 docker-compose up -d
 ```
 
+# Include new packade
+
+If you want add packade in project
+```
+docker exec -it web_app_react sh
+yarn add ...
+```
+This command entry in docker container in mode interective and you make all comands like SO terminal
+
 # Env File
 
 * APP_ENV = production or local
